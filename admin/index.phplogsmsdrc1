@@ -1,0 +1,84 @@
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: mysql service is deprecated. Please use SQL service with correct driver.
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Warning: No PIN code in C:\xampp\htdocs\tirtaagung\admin\smsdrc1 file
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Connected to Database: sms on localhost
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Connected to Database native_mysql: sms on localhost
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Created Windows RW shared memory at 00350000
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Starting phone communication...
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Error at init connection: Error opening device, it is already opened by other application. (DEVICEBUSY[5])
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Starting phone communication...
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Error at init connection: Error opening device, it is already opened by other application. (DEVICEBUSY[5])
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Starting phone communication...
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Error at init connection: Error opening device, it is already opened by other application. (DEVICEBUSY[5])
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Starting phone communication...
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Error at init connection: Error opening device, it is already opened by other application. (DEVICEBUSY[5])
+Tue 2019/07/02 22:41:18 gammu-smsd[3844]: Going to 30 seconds sleep because of too much connection errors
+Tue 2019/07/02 23:59:36 gammu-smsd[5004]: mysql service is deprecated. Please use SQL service with correct driver.
+Tue 2019/07/02 23:59:36 gammu-smsd[5004]: Warning: No PIN code in C:\xampp\htdocs\tirtaagung\admin\smsdrc1 file
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Connected to Database: sms on localhost
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Connected to Database native_mysql: sms on localhost
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Created Windows RW shared memory at 00490000
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Starting phone communication...
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Starting phone communication...
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Starting phone communication...
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Starting phone communication...
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Tue 2019/07/02 23:59:37 gammu-smsd[5004]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: mysql service is deprecated. Please use SQL service with correct driver.
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Warning: No PIN code in C:\xampp\htdocs\tirtaagung\admin\smsdrc1 file
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Connected to Database: sms on localhost
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Connected to Database native_mysql: sms on localhost
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Created Windows RW shared memory at 00360000
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:02:24 gammu-smsd[1712]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:02:55 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:02:55 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:02:55 gammu-smsd[1712]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:03:26 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:03:26 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:03:26 gammu-smsd[1712]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:03:57 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:03:57 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:03:57 gammu-smsd[1712]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:04:27 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:04:27 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:04:27 gammu-smsd[1712]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:04:58 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:04:58 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:04:58 gammu-smsd[1712]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:05:29 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:05:29 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:05:29 gammu-smsd[1712]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:06:00 gammu-smsd[1712]: Starting phone communication...
+Wed 2019/07/03 00:06:00 gammu-smsd[1712]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:06:00 gammu-smsd[1712]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: mysql service is deprecated. Please use SQL service with correct driver.
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Warning: No PIN code in C:\xampp\htdocs\tirtaagung\admin\smsdrc1 file
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Connected to Database: sms on localhost
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Connected to Database native_mysql: sms on localhost
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Created Windows RW shared memory at 003E0000
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Starting phone communication...
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Starting phone communication...
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Starting phone communication...
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Starting phone communication...
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Wed 2019/07/03 00:11:56 gammu-smsd[4928]: Going to 30 seconds sleep because of too much connection errors
+Wed 2019/07/03 00:15:05 gammu-smsd[3768]: mysql service is deprecated. Please use SQL service with correct driver.
+Wed 2019/07/03 00:15:05 gammu-smsd[3768]: Warning: No PIN code in C:\xampp\htdocs\tirtaagung\admin\smsdrc1 file
+Wed 2019/07/03 00:15:05 gammu-smsd[3768]: Connected to Database: sms on localhost
+Wed 2019/07/03 00:15:05 gammu-smsd[3768]: Connected to Database native_mysql: sms on localhost
+Wed 2019/07/03 00:15:05 gammu-smsd[3768]: Created Windows RW shared memory at 00880000
+Wed 2019/07/03 00:15:05 gammu-smsd[3768]: Starting phone communication...
+Wed 2019/07/03 00:15:13 gammu-smsd[3768]: Inserting phone info

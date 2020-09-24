@@ -1,0 +1,13 @@
+[gammu]
+device = com5:
+connection = at19200
+
+
+[smsd]
+service = mysql
+logfile = C:/xampp/htdocs/tirtaagung/admin/log.txt
+debuglevel = 0
+PIN = 1234
+user = root
+pc = localhost
+database = sms

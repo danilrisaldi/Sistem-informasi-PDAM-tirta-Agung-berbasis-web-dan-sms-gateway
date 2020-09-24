@@ -1,0 +1,21 @@
+Sat 2019/01/19 09:13:58 gammu-smsd[5180]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2019/01/19 09:13:58 gammu-smsd[5180]: Connected to Database: sms on localhost
+Sat 2019/01/19 09:13:59 gammu-smsd[5180]: Connected to Database native_mysql: sms on localhost
+Sat 2019/01/19 09:13:59 gammu-smsd[5180]: Created Windows RW shared memory at 003D0000
+Sat 2019/01/19 09:13:59 gammu-smsd[5180]: Starting phone communication...
+Sat 2019/01/19 09:14:07 gammu-smsd[5180]: Inserting phone info
+Sat 2019/01/19 09:14:08 gammu-smsd[5180]: Read 1 messages
+Sat 2019/01/19 09:14:17 gammu-smsd[5180]: Read 1 messages
+Sat 2019/01/19 09:15:30 gammu-smsd[5180]: Error getting security status: Error writing to the device. (DEVICEWRITEERROR[11])
+Sat 2019/01/19 09:15:30 gammu-smsd[5180]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2019/01/19 09:15:42 gammu-smsd[5180]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2019/01/19 09:15:42 gammu-smsd[5180]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2019/01/19 09:15:54 gammu-smsd[5180]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2019/01/19 09:15:54 gammu-smsd[5180]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2019/01/19 09:15:54 gammu-smsd[5180]: Already hit 3 errors
+Sat 2019/01/19 09:15:54 gammu-smsd[5180]: Terminating communication: Entry is empty. (EMPTY[22])
+Sat 2019/01/19 09:15:54 gammu-smsd[5180]: Starting phone communication...
+Sat 2019/01/19 09:15:54 gammu-smsd[5180]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Sat 2019/01/19 09:15:54 gammu-smsd[5180]: Failed to start SMSD, Error 5: Access is denied.
+
+
